@@ -15,9 +15,13 @@
 
 ---
 
-Electrical Engineering student specializing in **Embedded Systems**, **Industrial Automation**, and the **Industrial Internet of Things (IIoT)**, currently working as a **Meteorologist at the National Institute of Meteorology (INM)**, where I contribute to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment. Through my work at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed solid expertise in **industrial electrical systems**, **electrical wiring**, **industrial maintenance**, **instrumentation**, **control panels**, and **electrical troubleshooting**. I also design real-time embedded applications on **STM32** using **Bare-Metal C** and **STM32 HAL**, develop IIoT solutions with **ESP32**, **MQTT**, **Node-RED**, **InfluxDB**, and **Grafana**, and build industrial automation systems using **Siemens S7 PLCs**, **TIA Portal**, **Ladder Logic**, **GRAFCET**, and **WinCC**.
+🌦️ Currently working as a **Meteorologist** at the **National Institute of Meteorology (INM)**, contributing to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment.
 
+🏭 Through my work at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed strong expertise in **Industrial Electrical Systems**, **Electrical Wiring**, **Industrial Maintenance**, **Instrumentation**, **Control Panels**, and **Electrical Troubleshooting**.
 
+💻 I develop real-time embedded applications on **STM32** using **Bare-Metal C** and **STM32 HAL**, build **IIoT** solutions with **ESP32**, **MQTT**, **Node-RED**, **InfluxDB**, and **Grafana**, and design industrial automation systems using **Siemens S7 PLCs**, **TIA Portal**, **Ladder Logic**, **GRAFCET**, and **WinCC**.
+
+🚀 Passionate about designing intelligent, reliable, and connected industrial systems by combining **Embedded Software**, **Industrial Automation**, **Electrical Engineering**, and **Industrial IoT**.
 
 ---
 
