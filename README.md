@@ -37,4 +37,3 @@ I enjoy working close to the hardware — bare-metal C on STM32, real-time perip
 
 ---
 
-🌐 **Full portfolio with live demos:** [rezguiyassine92.github.io/portfolio](https://rezguiyassine92.github.io/portfolio/)
