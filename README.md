@@ -15,11 +15,9 @@
 
 ---
 
-I'm an Electrical Engineering student passionate about embedded systems and connected devices.
+Electrical Engineering student specializing in **Embedded Systems**, **Industrial Automation**, and the **Industrial Internet of Things (IIoT)**, currently working as a **Meteorologist at the National Institute of Meteorology (INM)**, where I contribute to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment. Through my work at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed solid expertise in **industrial electrical systems**, **electrical wiring**, **industrial maintenance**, **instrumentation**, **control panels**, and **electrical troubleshooting**. I also design real-time embedded applications on **STM32** using **Bare-Metal C** and **STM32 HAL**, develop IIoT solutions with **ESP32**, **MQTT**, **Node-RED**, **InfluxDB**, and **Grafana**, and build industrial automation systems using **Siemens S7 PLCs**, **TIA Portal**, **Ladder Logic**, **GRAFCET**, and **WinCC**.
 
-I enjoy working close to the hardware — bare-metal C on STM32, real-time peripherals (ADC, DMA, UART, I2C), and IoT integration with ESP32, MQTT, and cloud dashboards. I also work on industrial automation with Siemens PLCs (TIA Portal, ladder logic, GRAFCET) and vision-based inspection systems.
 
-> I write firmware that talks to relays, sensors, and motors — and makes them behave.
 
 ---
 
