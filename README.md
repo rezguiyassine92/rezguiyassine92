@@ -37,24 +37,4 @@ I enjoy working close to the hardware — bare-metal C on STM32, real-time perip
 
 ---
 
-### 📌 Featured Projects
-
-**[Système d'éclairage intelligent — ESP32 IoT](https://github.com/rezguiyassine92/portfolio)**
-Smart lighting system using ESP32, LDR/PIR/DHT22 sensors, PWM-driven LED control based on environmental conditions.
-`ESP32` `PWM` `IoT`
-
-**[Surveillance énergétique — IoT](https://github.com/rezguiyassine92/portfolio)**
-Real-time electrical energy monitoring — voltage, current and power acquisition with live dashboard.
-`ESP32` `Sensors` `Dashboard`
-
-**[Commande de robot — STM32F4](https://github.com/rezguiyassine92/portfolio)**
-Bare-metal C robot control on STM32F4: PWM motor drive, USART communication, multi-channel ADC acquisition.
-`STM32F4` `USART` `ADC`
-
-**[TIG Monitoring Stack](https://github.com/rezguiyassine92/portfolio)**
-Telegraf → InfluxDB → Grafana monitoring stack deployed with Docker.
-`Docker` `InfluxDB` `Grafana`
-
----
-
 🌐 **Full portfolio with live demos:** [rezguiyassine92.github.io/portfolio](https://rezguiyassine92.github.io/portfolio/)
