@@ -1,15 +1,5 @@
 <div align="center">
 
-# 👋 Yassine Rezgui
-
-### 🇫🇷 Français | 🇬🇧 English
-
-</div>
-
----
-
-<div align="center">
-
 ## 🇫🇷 Version Française
 
 # 👋 Yassine Rezgui
