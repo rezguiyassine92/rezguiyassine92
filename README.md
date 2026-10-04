@@ -4,14 +4,15 @@
 
 # 👋 Yassine Rezgui
 
-### Étudiant Ingénieur en Électrique · Systèmes Embarqués · IoT Industriel
+### Élève Ingénieur · Génie Électrique · Systèmes Embarqués · Automatisme · IoT
 
-🎓 ENSIT, Tunisie · 🔧 Firmware STM32 & ESP32 · 🏭 Automatisme Industriel (Siemens TIA Portal)
+🎓 ENSIL-ENSCI (Limoges) & ENSIT (Tunis) · 🔧 Firmware STM32 & ESP32 · 🏭 Automatisme Industriel (Siemens TIA Portal)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rezguiyassine92.github.io-6a5acd?style=flat)](https://rezguiyassine92.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rezgui--yassine-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezgui-yassine-507846272/)
 [![Email](https://img.shields.io/badge/Email-rezguiyassine92%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rezguiyassine92@gmail.com)
-![Location](https://img.shields.io/badge/📍-France,_Limoges-lightgrey?style=flat)
+![Location](https://img.shields.io/badge/📍-Limoges,_France-lightgrey?style=flat)
+![Disponibilité](https://img.shields.io/badge/🎯_Stage_4_mois-dès_mai_2027-2ea44f?style=flat)
 
 </div>
 
@@ -19,19 +20,19 @@
 
 ### 🙋 À propos de moi
 
-🎓 Étudiant en **2ème année cycle ingénieur**.
+🎓 **Élève ingénieur en double diplomation** : Génie Électrique (**ENSIT**, Tunisie) et Électronique & Télécommunications (**ENSIL-ENSCI**, Université de Limoges).
 
 🌦️ Actuellement **Météorologue** à l'[**Institut National de la Météorologie (INM)**](https://www.meteo.tn/), où je participe à l'exploitation, l'étalonnage, la maintenance et le dépannage des capteurs météorologiques, des systèmes d'acquisition de données et des équipements de surveillance environnementale.
 
-🏭 À travers mon poste à l'**INM** et mes stages industriels chez **Chakira Câble** et **Valeo**, j'ai développé une solide expertise en **Systèmes Électriques Industriels**, **Câblage Électrique**, **Maintenance Industrielle**, **Instrumentation**, **Armoires de Commande** et **Dépannage Électrique**.
+🏭 À travers mon poste à l'**INM** et mes stages industriels chez **Chakira Câble** et **Valeo**, j'ai développé une solide expertise en **Systèmes Électriques Industriels**, **Commande Moteur et Variateurs de Vitesse**, **Maintenance Électromécanique**, **Instrumentation**, **Câblage Électrique**, **Armoires de Commande** et **Dépannage Électrique**.
 
 💻 Je développe des applications embarquées temps réel sur **STM32** en **Bare-Metal C / HAL**, je conçois des solutions **IIoT** avec **ESP32**, **MQTT**, **Node-RED**, **InfluxDB** et **Grafana**, et je réalise des systèmes d'automatisme industriel avec **Siemens S7**, **TIA Portal**, **Ladder Logic**, **GRAFCET** et **WinCC**.
 
-🎯 **Je recherche un stage** en **génie électrique**, **automatisme industriel** ou **systèmes embarqués**.
+🎯 **Je recherche un stage de 4 mois à partir de mai 2027** en **génie électrique**, **électrotechnique**, **automatisme industriel** ou **systèmes embarqués**.
 
 ---
 
-## 🛠 My Skill Set
+## 🛠 Compétences
 
 <table width="100%">
 <tr>
@@ -77,10 +78,12 @@
 <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </td>
 <td align="center">
+<img src="https://img.shields.io/badge/-Commande_Moteur-FFB000?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/-Variateurs_de_Vitesse-E67E22?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Câblage_Électrique-FFB000?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Armoires_de_Commande-4B4B4B?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Instrumentation-2E86AB?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/-Maintenance_Industrielle-6a5acd?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Maintenance_Électromécanique-6a5acd?style=for-the-badge" />
 </td>
 </tr>
 </table>
@@ -89,7 +92,7 @@
 
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Voir_mes_projets-6a5acd?style=flat)](https://rezguiyassine92.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Se_connecter-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezgui-yassine-507846272/)
@@ -111,14 +114,15 @@
 
 # 👋 Yassine Rezgui
 
-### Electrical Engineering Student · Embedded Systems · Industrial IoT
+### Engineering Student · Electrical Engineering · Embedded Systems · Automation · IoT
 
-🎓 ENSIT, Tunisia · 🔧 STM32 & ESP32 Firmware · 🏭 Industrial Automation (Siemens TIA Portal)
+🎓 ENSIL-ENSCI (Limoges) & ENSIT (Tunis) · 🔧 STM32 & ESP32 Firmware · 🏭 Industrial Automation (Siemens TIA Portal)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rezguiyassine92.github.io-6a5acd?style=flat)](https://rezguiyassine92.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rezgui--yassine-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezgui-yassine-507846272/)
 [![Email](https://img.shields.io/badge/Email-rezguiyassine92%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rezguiyassine92@gmail.com)
-![Location](https://img.shields.io/badge/📍-Tunis,_Tunisia-lightgrey?style=flat)
+![Location](https://img.shields.io/badge/📍-Limoges,_France-lightgrey?style=flat)
+![Availability](https://img.shields.io/badge/🎯_4--month_internship-from_May_2027-2ea44f?style=flat)
 
 </div>
 
@@ -126,15 +130,15 @@
 
 ### 🙋 About Me
 
-🎓 **2nd-year engineering student**.
+🎓 **Double-degree engineering student**: Electrical Engineering (**ENSIT**, Tunisia) and Electronics & Telecommunications (**ENSIL-ENSCI**, University of Limoges).
 
 🌦️ Currently working as a **Meteorologist** at the [**National Institute of Meteorology (INM)**](https://www.meteo.tn/), contributing to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment.
 
-🏭 Through my role at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed strong expertise in **Industrial Electrical Systems**, **Electrical Wiring**, **Industrial Maintenance**, **Instrumentation**, **Control Panels**, and **Electrical Troubleshooting**.
+🏭 Through my role at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed strong expertise in **Industrial Electrical Systems**, **Motor Control and Variable Speed Drives**, **Electromechanical Maintenance**, **Instrumentation**, **Electrical Wiring**, **Control Panels**, and **Electrical Troubleshooting**.
 
 💻 I develop real-time embedded applications on **STM32** using **Bare-Metal C / HAL**, build **IIoT** solutions with **ESP32**, **MQTT**, **Node-RED**, **InfluxDB**, and **Grafana**, and design industrial automation systems using **Siemens S7**, **TIA Portal**, **Ladder Logic**, **GRAFCET**, and **WinCC**.
 
-🎯 **Currently seeking an internship** in **electrical engineering**, **industrial automation**, or **embedded systems**.
+🎯 **Currently seeking a 4-month internship starting May 2027** in **electrical engineering**, **industrial automation**, or **embedded systems**.
 
 ---
 
@@ -184,10 +188,12 @@
 <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </td>
 <td align="center">
+<img src="https://img.shields.io/badge/-Motor_Control-FFB000?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/-Variable_Speed_Drives-E67E22?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Electrical_Wiring-FFB000?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Control_Panels-4B4B4B?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/-Instrumentation-2E86AB?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/-Industrial_Maintenance-6a5acd?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Electromechanical_Maintenance-6a5acd?style=for-the-badge" />
 </td>
 </tr>
 </table>
