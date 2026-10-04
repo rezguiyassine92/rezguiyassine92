@@ -22,7 +22,7 @@
 
 🎓 **Élève ingénieur en double diplomation** : Génie Électrique (**ENSIT**, Tunisie) et Électronique & Télécommunications (**ENSIL-ENSCI**, Université de Limoges).
 
-🌦️ Actuellement **Météorologue** à l'[**Institut National de la Météorologie (INM)**](https://www.meteo.tn/), où je participe à l'exploitation, l'étalonnage, la maintenance et le dépannage des capteurs météorologiques, des systèmes d'acquisition de données et des équipements de surveillance environnementale.
+🌦️ Ancien **Observateur Météorologique** à l'[**Institut National de la Météorologie (INM)**](https://www.meteo.tn/) (2021 – 2026), où j'ai participé à l'exploitation, l'étalonnage, la maintenance et le dépannage des capteurs météorologiques, des systèmes d'acquisition de données et des équipements de surveillance environnementale.
 
 🏭 À travers mon poste à l'**INM** et mes stages industriels chez **Chakira Câble** et **Valeo**, j'ai développé une solide expertise en **Systèmes Électriques Industriels**, **Commande Moteur et Variateurs de Vitesse**, **Maintenance Électromécanique**, **Instrumentation**, **Câblage Électrique**, **Armoires de Commande** et **Dépannage Électrique**.
 
@@ -132,7 +132,7 @@
 
 🎓 **Double-degree engineering student**: Electrical Engineering (**ENSIT**, Tunisia) and Electronics & Telecommunications (**ENSIL-ENSCI**, University of Limoges).
 
-🌦️ Currently working as a **Meteorologist** at the [**National Institute of Meteorology (INM)**](https://www.meteo.tn/), contributing to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment.
+🌦️ Former **Meteorological Observer** at the [**National Institute of Meteorology (INM)**](https://www.meteo.tn/) (2021 – 2026), where I contributed to the operation, calibration, maintenance, and troubleshooting of meteorological sensors, data acquisition systems, and environmental monitoring equipment.
 
 🏭 Through my role at **INM** and industrial internships at **Chakira Câble** and **Valeo**, I have developed strong expertise in **Industrial Electrical Systems**, **Motor Control and Variable Speed Drives**, **Electromechanical Maintenance**, **Instrumentation**, **Electrical Wiring**, **Control Panels**, and **Electrical Troubleshooting**.
 
