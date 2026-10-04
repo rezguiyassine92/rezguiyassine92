@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rezguiyassine92.github.io-6a5acd?style=flat)](https://rezguiyassine92.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rezgui--yassine-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezgui-yassine-507846272/)
 [![Email](https://img.shields.io/badge/Email-rezguiyassine92%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rezguiyassine92@gmail.com)
-![Location](https://img.shields.io/badge/📍-Tunis,_Tunisie-lightgrey?style=flat)
+![Location](https://img.shields.io/badge/📍-France,_Limoges-lightgrey?style=flat)
 
 </div>
 
